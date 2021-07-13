@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sona Ermandi
+- 👋 Hi, I’m Sona Ermando
 - 👀 I’m interested in Mobile Engineering
 - 🌱 I’m currently learning Flutter
 
